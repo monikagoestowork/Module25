@@ -1,7 +1,7 @@
 # Module25
-Final Project for Machine Learning &amp; AI Certification
+**Final Project for Machine Learning &amp; AI Certification**
 
-Dataset from Kaggle: Disease Risk from Daily Habits
+Dataset from Kaggle: **Disease Risk from Daily Habits**
 https://www.kaggle.com/datasets/mahdimashayekhi/disease-risk-from-daily-habits
 
 About Dataset
@@ -25,7 +25,7 @@ The target column indicates whether an individual is diagnosed with a certain di
 
 Feature	          Description
 age	              Age of the individual
-bmi	Body Mass Index
+bmi	              Body Mass Index
 - blood_pressure	Systolic blood pressure (mm Hg)
 - cholesterol	Cholesterol level (mg/dL)
 - heart_rate	Resting heart rate (bpm)
