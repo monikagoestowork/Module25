@@ -16,10 +16,12 @@ healthy
 diseased
 Imbalanced: ~70% healthy, ~30% diseased
 - Data Types: Numerical, categorical, ordinal
+  
 🎯 Target Definition
 The target column indicates whether an individual is diagnosed with a certain disease or not. The classification is based on medical and lifestyle indicators derived from the individual’s profile.
 🧬 Feature Categories
 🔢 Numerical Features
+
 Feature	Description
 age	Age of the individual
 bmi	Body Mass Index
