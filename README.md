@@ -1,7 +1,10 @@
 # Module25
 **Final Project for Machine Learning &amp; AI Certification**
 
+**Model Card** 
+
 Dataset from Kaggle: **Disease Risk from Daily Habits**
+
 https://www.kaggle.com/datasets/mahdimashayekhi/disease-risk-from-daily-habits
 
 About Dataset
@@ -67,8 +70,12 @@ The target was not blindly assigned; label logic respects the underlying feature
 📂 File
 health_lifestyle_dataset.csv: Full dataset with 100,000 rows and 48 columns (including the target).
 
-- Summary of Findings
-This feature importance chart is much more meaningful than the previous one. The fact that the importance scores are more evenly distributed and that the model is (presumably) no longer predicting only one class indicates that the class_weight parameter was successful. The model is now actively trying to find the subtle signals that differentiate between 'healthy' and 'diseased' outcomes.
+________________________________________________________________________________________________________________
+
+**Summary of Findings**
+This feature importance chart is much more meaningful than the previous one. The fact that the importance scores are more evenly distributed and that the model is (presumably) no longer predicting only one class indicates that the class_weight parameter was successful. 
+
+The model is now actively trying to find the subtle signals that differentiate between 'healthy' and 'diseased' outcomes.
 
 What the Chart Shows
 
@@ -80,7 +87,7 @@ The top five most influential factors, according to your model, are:
 - cholesterol
 - sleep_hours
 
-📣 Conclusions and Predictions
+**📣Conclusions and Predictions**
 
 Lifestyle and Metabolic Factors are Key: The most significant conclusion is that a combination of lifestyle choices and key metabolic indicators are the primary drivers of the health outcomes in your dataset. Factors like work_hours, sugar_intake, and sleep_hours are behavioral, while glucose and cholesterol are direct physiological measurements. This suggests a strong link between daily habits and metabolic health.
 work_hours is a Powerful, Complex Predictor: It's interesting that work_hours is the most important feature. This is likely a proxy for several other unmeasured factors. For example, high work hours could correlate with higher stress, less time for exercise, poorer diet choices, and disrupted sleep, all of which are known to impact health.
