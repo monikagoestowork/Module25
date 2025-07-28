@@ -77,7 +77,7 @@ This feature importance chart is much more meaningful than the previous one. The
 
 The model is now actively trying to find the subtle signals that differentiate between 'healthy' and 'diseased' outcomes.
 
-What the Chart Shows
+What the Chart Shows (can be viewed in Mod25_Capstone_4)
 
 The chart displays the top 15 features that the tuned Random Forest model found most useful for making its predictions. The "Importance Score" on the x-axis represents the relative contribution of each feature to the model's decision-making process.
 The top five most influential factors, according to your model, are:
