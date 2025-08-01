@@ -5,7 +5,7 @@ This document provides a detailed overview of the dataset used in the Health & L
 ### **Motivation**
 
 * **For what purpose was the dataset created?**
-    The dataset was created to develop a machine learning model capable of classifying individuals as 'healthy' or 'diseased'. It serves as the foundation for exploring the relationships between various lifestyle factors and health outcomes, and for training and evaluating a predictive classifier. Taken from Kaggle https://www.kaggle.com/datasets/mahdimashayekhi/disease-risk-from-daily-habits
+    The dataset was created to develop a machine learning model capable of classifying individuals as 'healthy' or 'diseased'. It serves as the foundation for exploring the relationships between various lifestyle factors and health outcomes, and for training and evaluating a predictive classifier. Taken from Kaggle created by Mahdi Mashayekhi. https://www.kaggle.com/datasets/mahdimashayekhi/disease-risk-from-daily-habits
 
 ### **Composition**
 
